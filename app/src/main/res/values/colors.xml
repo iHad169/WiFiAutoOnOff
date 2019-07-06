@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ WiFiAutoOnOff is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ WiFiAutoOnOff is distributed in the hope that it will be useful,
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with WiFiAutoOnOff.  If not, see <https://www.gnu.org/licenses/>.
+  -->
+
+<resources>
+    <color name="colorPrimary">#3fb54b</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="Green">#00cc18</color>
+    <color name="green_1">#007d0e</color>
+    <color name="colorBackground">#00a105</color>
+    <color name="foreground_material_light">#ff0000</color>
+    <color name="secondary_text_default_material_dark">#b3ff0000</color>
+    <color name="secondary_text_material_dark">@color/Green</color>
+    <color name="primary_text_default_material_dark">#ff0000</color>
+    <color name="primary_dark_material_dark">#028a00</color>
+    <color name="primary_material_dark">#128800</color>
+    <color name="background_material_dark">#008d09</color>
+    <color name="secondary_text_default_material_light">#8a11ff00</color>
+</resources>

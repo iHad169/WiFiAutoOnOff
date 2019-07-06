@@ -1,0 +1,26 @@
+<!--
+  ~ WiFiAutoOnOff is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ WiFiAutoOnOff is distributed in the hope that it will be useful,
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with WiFiAutoOnOff.  If not, see <https://www.gnu.org/licenses/>.
+  -->
+
+<vector android:height="24dp" android:viewportHeight="100"
+    android:viewportWidth="100" android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#000000" android:pathData="m47,4v49h6L53,4ZM48,5h4v47h-4z"/>
+    <path android:fillColor="#000000" android:pathData="m13,47v6h40v-6zM14,48h38v4L14,52Z"/>
+    <path android:fillColor="#000000" android:pathData="M46,33.498A17,17 0,0 0,33.488 46L41.951,46A9,9 0,0 1,46 41.941L46,33.498z"/>
+    <path android:fillColor="#000000" android:pathData="M46,21.313A29,29 0,0 0,21.293 46L29.396,46A21,21 0,0 1,46 29.402L46,21.313z"/>
+    <path android:fillColor="#000000" android:pathData="M46,9.201A41,41 0,0 0,9.234 46L17.277,46A33,33 0,0 1,46 17.285L46,9.201z"/>
+    <path android:fillColor="#000000" android:pathData="M50,50m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0"/>
+    <path android:fillColor="#000000" android:pathData="M54,7.225L54,15.252A35,35 0,0 1,85 50A35,35 0,0 1,50 85A35,35 0,0 1,17.195 62L8.742,62A43,43 0,0 0,50 93A43,43 0,0 0,93 50A43,43 0,0 0,54 7.225z"/>
+    <path android:fillColor="#000000"
+        android:pathData="M10.167,53.377 L6.779,60.624 2.544,69.683 9.791,73.071 14.026,64.012 23.085,68.247 26.473,61 17.414,56.765Z" android:strokeWidth="1.09544516"/>
+</vector>
